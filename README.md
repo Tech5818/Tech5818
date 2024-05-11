@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 ### ⭐used this⭐
 ---
@@ -12,5 +11,3 @@
 ### 🌍used Language🌏
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech5818&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
