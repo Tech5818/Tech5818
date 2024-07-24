@@ -7,6 +7,6 @@
 
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Postgresql-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 
-### 🌍used Language🌏
+### 🌍Most Used Language🌏
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tech5818&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
